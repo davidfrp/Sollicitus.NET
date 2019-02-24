@@ -2,7 +2,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Sollicitus/Sollicitus.NET.svg)](https://github.com/Sollicitus/Sollicitus.NET/issues)
 [![Project license](https://img.shields.io/github/license/Sollicitus/Sollicitus.NET.svg)](https://github.com/Sollicitus/Sollicitus.NET/blob/master/LICENSE)
 
-An open-source file shredder using zeroization and pseudo randomly generated data to overwrite files. 
+Sollicitus /solˈli.ki.tus/ is an open-source file shredder using zeroization and pseudo randomly generated data to overwrite files. 
 
 ## Example of use
 ```csharp
